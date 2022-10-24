@@ -1,0 +1,113 @@
+
+if pyperclip.paste() == temp:
+        time.sleep(1)
+        
+    else:
+        temp = pyperclip.paste()
+        apt()
+if pyperclip.paste() == temp:
+        time.sleep(1)
+        
+    else:
+        temp = pyperclip.paste()
+        apt()
+if pyperclip.paste() == temp:
+        time.sleep(1)
+        
+    else:
+        temp = pyperclip.paste()
+        apt()
+if pyperclip.paste() == temp:
+        time.sleep(1)
+        
+    else:
+        temp = pyperclip.paste()
+        apt()
+if pyperclip.paste() == temp:
+        time.sleep(1)
+        
+    else:
+        temp = pyperclip.paste()
+        apt()
+if pyperclip.paste() == temp:
+        time.sleep(1)
+        
+    else:
+        temp = pyperclip.paste()
+        apt()
+if pyperclip.paste() == temp:
+        time.sleep(1)
+        
+    else:
+        temp = pyperclip.paste()
+        apt()
+if pyperclip.paste() == temp:
+        time.sleep(1)
+        
+    else:
+        temp = pyperclip.paste()
+        apt()
+if pyperclip.paste() == temp:
+        time.sleep(1)
+        
+    else:
+        temp = pyperclip.paste()
+        apt()
+if pyperclip.paste() == temp:
+        time.sleep(1)
+        
+    else:
+        temp = pyperclip.paste()
+        apt()
+if pyperclip.paste() == temp:
+        time.sleep(1)
+        
+    else:
+        temp = pyperclip.paste()
+        apt()
+if pyperclip.paste() == temp:
+        time.sleep(1)
+        
+    else:
+        temp = pyperclip.paste()
+        apt()
+if pyperclip.paste() == temp:
+        time.sleep(1)
+        
+    else:
+        temp = pyperclip.paste()
+        apt()
+if pyperclip.paste() == temp:
+        time.sleep(1)
+        
+    else:
+        temp = pyperclip.paste()
+        apt()
+if pyperclip.paste() == temp:
+        time.sleep(1)
+        
+    else:
+        temp = pyperclip.paste()
+        apt()
+if pyperclip.paste() == temp:
+        time.sleep(1)
+        
+    else:
+        temp = pyperclip.paste()
+        apt()
+https://open.spotify.com/playlist/37i9dQZF1DX0XUfTFmNBRM?si=c058f6790e9649d1
+https://open.spotify.com/playlist/37i9dQZF1DX0XUfTFmNBRM?si=c058f6790e9649d1
+https://open.spotify.com/playlist/37i9dQZF1DX0XUfTFmNBRM?si=c058f6790e9649d1
+https://open.spotify.com/playlist/37i9dQZF1DX0XUfTFmNBRM?si=c058f6790e9649d1
+https://open.spotify.com/playlist/37i9dQZF1DX0XUfTFmNBRM?si=c058f6790e9649d1
+https://open.spotify.com/playlist/37i9dQZF1DX0XUfTFmNBRM?si=c058f6790e9649d1
+https://open.spotify.com/playlist/37i9dQZF1DX0XUfTFmNBRM?si=c058f6790e9649d1
+https://open.spotify.com/playlist/37i9dQZF1DX0XUfTFmNBRM?si=c058f6790e9649d1
+https://open.spotify.com/playlist/37i9dQZF1DX0XUfTFmNBRM?si=c058f6790e9649d1
+https://fast.com/
+https://fast.com/
+https://fast.com/
+https://blog.tensorflow.org/
+https://blog.tensorflow.org/
+https://blog.tensorflow.org/
+https://blog.tensorflow.org/
