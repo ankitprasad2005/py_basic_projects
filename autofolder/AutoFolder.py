@@ -167,7 +167,7 @@ try:
         verf()
         crt()
         svptd()
-    
+
     elif inp1 == 5:
         dtct()
         ptcp()

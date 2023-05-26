@@ -3,6 +3,4 @@ def fac(x):
         return 1
     return x * fac(x-1)
 
-a = fac(int(input()))
-
-for x in range
+print(fac(int(input())))
