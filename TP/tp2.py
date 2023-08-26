@@ -5,7 +5,6 @@ def checkinput():
         print('please enter an integer')
         return checkinput()
 
-
 '''
 def checkinput():
     try:
@@ -14,7 +13,6 @@ def checkinput():
         print('please enter an integer')
         checkinput()
 '''
-
 
 num = 10
 a = checkinput()
